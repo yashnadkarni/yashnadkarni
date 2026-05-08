@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yash Nadkarni
 - 👀 Software Engineer in search of some challenging projects
 - 🌱 Masters in Computer Science at UT Dallas
-- 📫 Email : yashnadkarni65@gmail.com / LinkedIn : https://www.linkedin.com/in/yashnadkarni/
+- 📫 Email : developwithyash@gmail.com / LinkedIn : https://www.linkedin.com/in/yashnadkarni/
 - 🌐 Check my website : https://yashnadkarni.github.io/
 
 <!---
